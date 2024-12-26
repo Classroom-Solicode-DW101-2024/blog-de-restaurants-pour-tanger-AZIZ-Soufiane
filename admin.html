@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="Admin.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <title>FeastScout</title>
+</head>
+<body>
+    <header>
+    <nav class="navbar">
+        <img class="logo" src="images/feastscout.png" alt="logo">
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="admin.html">Admin</a></li>
+        </ul>
+        <div class="search-container">
+            <select id="searchCriteria">
+                <option value="all"> All </option>
+                <option value="name"> Name </option>
+                <option value="specialty"> Speciality </option>
+            </select>
+            <input type="text" id="searchInput" placeholder="   Search Resturants...">
+            <button id="searchBtn"><i class="fa-solid fa-magnifying-glass"></i> Search</button>
+            <button id="clearBtn"><i class="fa-regular fa-circle-xmark"></i> Clear</button>
+        </div>
+    </nav>
+    </header>
+
+    <main>
+        <div class="Resturants-container-Admin">
+            <table class="restaurant-table" id="resturants-Grid">
+                <tbody>
+                    <!-- Resturants Will be Displayed in this part -->
+                </tbody>
+            </table>
+            
+            <div class="controlPannel"> 
+                    <h2>Add A Resturant</h2>
+                    <form id="restaurantForm">
+                        <label for="image">Image Upload:</label>
+                        <input type="file" id="image" name="image" accept="image/*" required>
+                    
+                        <label for="name">Name:</label>
+                        <input type="text" id="name" name="name" required>
+                    
+                        <label for="specialty">Specialty:</label>
+                        <input type="text" id="specialty" name="specialty" required>
+                        
+                        <label for="adress">Address:</label>
+                        <input type="text" id="adress" name="adress" required>
+                    
+                        <label for="description">Description:</label>
+                        <textarea id="description" name="description" rows="4" required></textarea>
+                    
+                        <button type="submit">Add Restaurant</button>
+                    </form>
+            </div>
+        </div>
+
+    </main>
+
+
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-section about">
+                <h3>FeastScout</h3>
+                <p>Discover the best dining experiences in Tangier. Your ultimate guide to local restaurants and culinary delights.</p>
+                <div class="contact">
+                    <span><i class="fa-solid fa-phone"></i> +212 999 99 99 99</span>
+                    <span><i class="fa-solid fa-envelope"></i> info@feastscout.com</span>
+                </div>
+            </div>
+            
+            <div class="footer-section links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="admin.html">Admin Panel</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section social">
+                <h3>Follow Us</h3>
+                <div class="social-icons">
+                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2024 FeastScout. All Rights Reserved.</p>
+        </div>
+    </footer>
+    
+
+    <script src="Admin.js"></script>
+</body>
+</html>

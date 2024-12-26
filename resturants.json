@@ -1,0 +1,122 @@
+[
+    {
+        "name": "El Tangerino",
+        "address": "Ave Mohamed VI, Tangier",
+        "specialty": "Seafood and Spanish Cuisine",
+        "rating": 4.6,
+        "site": "https://eltangerino.com/",
+        "tel": "+212 539 32 11 22",
+        "image": "images/el tangerino.jpg",
+        "description": "El Tangerino is a stylish and renowned restaurant in Tangier, Morocco, offering a blend of Mediterranean and Moroccan cuisine in a sophisticated and trendy setting. Located in a beautiful spot, the restaurant provides stunning views of the Mediterranean, making it a popular choice for both locals and visitors looking to enjoy great food in a scenic environment.The restaurant's atmosphere is chic yet relaxed, with contemporary décor that incorporates elements of traditional Moroccan style. Whether dining indoors or on the terrace, guests can enjoy a comfortable and elegant experience. The spacious outdoor seating area is especially ideal during warm evenings, offering a perfect setting for a leisurely meal while enjoying the refreshing sea breeze."
+    },
+    {
+        "name": "Anna e Paolo",
+        "address": "Rue Antaki, Tangier",
+        "specialty": "Italian Cuisine",
+        "rating": 4.5,
+        "site": "https://annaepaolo.com/",
+        "tel": "+212 539 35 67 89",
+        "image": "images/anna & paolo.jpg",
+        "description": "Anna e Paolo is a charming Italian restaurant in Tangier, Morocco, known for offering an authentic taste of Italian cuisine in a cozy and welcoming atmosphere. The restaurant is popular for its delicious homemade dishes, which are crafted using high-quality ingredients and traditional Italian recipes. It has become a favorite among both locals and visitors who crave classic Italian flavors in the heart of Tangier.The interior of Anna e Paolo is warm and inviting, with a simple yet stylish design that evokes the charm of a traditional Italian trattoria. The restaurant offers a casual and relaxed dining experience, with attentive service and a friendly ambiance that makes diners feel at home."
+    },
+    {
+        "name": "El Morocco Club",
+        "address": "Rue de la Kasbah, Tangier",
+        "specialty": "Fusion Moroccan and International Cuisine",
+        "rating": 4.3,
+        "site": "https://elmoroccoclub.com/",
+        "tel": "+212 539 33 64 04",
+        "image": "images/El Morocco Club.webp",
+        "description": "El Morocco Club is a sophisticated and stylish restaurant, bar, and lounge located in the heart of Tangier, Morocco. Known for its chic ambiance, luxurious setting, and exceptional service, El Morocco Club offers an unforgettable dining experience. The venue is set in a beautifully restored building with a blend of contemporary and traditional Moroccan design, featuring elegant décor, plush furnishings, and a vibrant atmosphere. The space includes both an indoor dining area and an outdoor terrace, where guests can enjoy their meals while taking in views of the city."
+    },
+    {
+        "name": "Le Saveur du Poisson",
+        "address": "Escalier Waller 2, Rue de la Liberté, Tangier",
+        "specialty": "Seafood with Moroccan Flavors",
+        "rating": 4.2,
+        "site": "https://lesaveurdupoisson.com/",
+        "tel": "+212 539 93 49 37",
+        "image": "images/le saveur du poisson.jpg",
+        "description": "Le Saveur du Poisson is a highly regarded seafood restaurant in Tangier, Morocco, known for its exceptional fresh fish and seafood dishes. Located in a charming and intimate setting, the restaurant has become a favorite among both locals and visitors looking for an authentic and flavorful dining experience, especially those with a love for fresh seafood.The atmosphere at Le Saveur du Poisson is casual yet inviting, with simple yet cozy decor that focuses on creating a relaxed dining experience. The restaurant is not overly large, which adds to its intimate, personal feel, and it’s often busy due to its reputation for offering some of the best seafood in Tangier. Its charm lies in its friendly service and the unpretentious nature of the dining experience."
+    },
+    {
+        "name": "La Table du Marché",
+        "address": "2 Rue du Stade, Tangier",
+        "specialty": "Contemporary European",
+        "rating": 4.7,
+        "site": "https://www.latabledumarché.com/",
+        "tel": "+212 539 33 42 00",
+        "image": "images/La Table du Marché.jpg",
+        "description": "La Table du Marché is a renowned and upscale restaurant in Tangier, known for its sophisticated ambiance and high-quality cuisine. Located in the heart of the city, this elegant dining spot offers a contemporary yet inviting atmosphere, blending modern decor with a touch of traditional Moroccan elements. It is especially popular among food enthusiasts seeking a refined dining experience that highlights both local and international flavors.The restaurant’s name, 'La Table du Marché' (which translates to 'The Market Table'), reflects its commitment to using fresh, locally sourced ingredients, often from nearby markets. This focus on quality ingredients ensures that the menu is full of vibrant and flavorful dishes, prepared with precision and care."
+    },
+    {
+        "name": "Restaurant Le Bistrot du Port",
+        "address": "Rue Al Majd, Tangier",
+        "specialty": "Seafood and French",
+        "rating": 4.7,
+        "site": "https://www.bistrotdelport.com/",
+        "tel": "+212 539 93 85 78",
+        "image": "images/Le Bistrot du Port.jpg",
+        "description": "Restaurant Le Bistrot du Port in Tangier is a well-loved dining destination, particularly known for its relaxed yet elegant atmosphere and its proximity to the vibrant port area of the city. Situated near the water, the restaurant offers guests a chance to enjoy delicious food while taking in views of the harbor and the Mediterranean Sea, making it a perfect spot for those seeking a casual, maritime-inspired dining experience.The interior of Le Bistrot du Port features a cozy and stylish setting, with a blend of modern and traditional elements. The ambiance is warm and inviting, offering a comfortable place for both locals and tourists to enjoy their meals. The restaurant is often frequented by seafood lovers due to its emphasis on fresh, locally sourced ingredients, especially from the sea."
+    },
+    {
+        "name": "La Terrasse",
+        "address": "2 Rue de la Liberté, Tangier",
+        "specialty": "Moroccan Fusion",
+        "rating": 4.8,
+        "site": "https://www.laterrassetangier.com/",
+        "tel": "+212 539 92 01 62",
+        "image": "images/La terrasse.jpg",
+        "description": "La Terrasse in Tangier is a popular and stylish restaurant that offers a fantastic dining experience, particularly known for its stunning views of the city and the Mediterranean Sea. Located atop a building, the restaurant features a spacious terrace, making it an ideal spot for those looking to enjoy their meals while overlooking the picturesque coastal landscape, particularly during the sunset.The atmosphere at La Terrasse is chic yet relaxed, with contemporary decor blending harmoniously with the Moroccan aesthetic. Its outdoor seating area provides an inviting ambiance, perfect for a leisurely lunch or a romantic dinner, with the sound of the waves and the breeze from the sea enhancing the overall experience."
+    },
+    {
+        "name": "Restaurant Riad Tanja",
+        "address": "7 Rue d’Italie, Tangier",
+        "specialty": "Moroccan Cuisine",
+        "rating": 4.5,
+        "site": "https://www.riad-tanja.com/",
+        "tel": "+212 539 33 88 55",
+        "image": "images/Riad Tanja.jpg",
+        "description": "Restaurant Riad Tanja is a delightful dining establishment located in the heart of Tangier, Morocco, offering a unique blend of traditional Moroccan and Mediterranean cuisine. Set within a beautifully restored riad (a traditional Moroccan house with an interior courtyard), the restaurant provides an authentic atmosphere with stunning architecture, elegant decor, and a tranquil ambiance, making it a perfect spot for both intimate meals and larger gatherings.The riad's interior features intricate Moroccan design elements, such as ornate tile work, arched doorways, and a central courtyard adorned with plants and fountains. Guests can dine in a cozy, atmospheric space, or opt for outdoor seating in the courtyard, which is especially charming during warm evenings."
+    },
+    {
+        "name": "Pasta e Basta",
+        "address": "24 Boulevard Mohamed V, Tangier",
+        "specialty": "Italian Cuisine",
+        "rating": 4.6,
+        "site": "https://www.pastaebasta.com/",
+        "tel": "+212 539 94 74 25",
+        "image": "images/Pasta e Basta.jpg",
+        "description": "Pasta e Basta is a popular Italian restaurant located in Tangier, Morocco, offering a cozy and inviting atmosphere for those seeking authentic Italian cuisine. With a name that translates to 'Pasta and Enough,' the restaurant focuses on delivering a menu centered around delicious, homemade pasta and other Italian comfort foods, creating a delightful experience for both locals and tourists.The restaurant is known for its warm and casual ambiance, combining a contemporary style with traditional touches. Its welcoming environment, along with friendly service, makes it a favorite among those craving Italian flavors in the heart of Tangier."
+    },
+    {
+        "name": "Le Petit Crystal",
+        "address": "Place de la Kasbah, Tangier",
+        "specialty": "Moroccan and Mediterranean",
+        "rating": 4.5,
+        "site": "https://www.lepetitcrystal.com/",
+        "tel": "+212 539 92 63 62",
+        "image": "images/Le Petit Crystal.jpg",
+        "description": "Le Petit Crystal is a charming and well-known restaurant located in Tangier, Morocco, that offers a delightful blend of Moroccan and Mediterranean cuisine. Known for its intimate atmosphere and refined dining experience, this restaurant is a favorite for both locals and visitors who appreciate high-quality food and attentive service.The restaurant’s interior is cozy and inviting, with a mix of modern and traditional Moroccan decor, creating a warm ambiance. The setting, though relatively small, is often described as welcoming, offering a personal touch that makes diners feel at home. It is perfect for those looking for a relaxed yet sophisticated environment."
+    },
+    {
+        "name": "L'Ocean",
+        "address": "Corniche de Tanger, Tangier",
+        "specialty": "Seafood and Mediterranean",
+        "rating": 4.7,
+        "site": "https://www.oceantangier.com/",
+        "tel": "+212 539 93 80 06",
+        "image": "images/L'Ocean.jpg",
+        "description": "L'Ocean Restaurant in Tangier, Morocco, is a renowned dining spot that offers an exquisite blend of traditional Moroccan cuisine and Mediterranean influences. Located along the picturesque coastline, the restaurant boasts stunning views of the Atlantic Ocean, making it a perfect place for both casual and special occasions.L'Ocean is known for its elegant yet relaxed atmosphere, with a chic, modern decor that still honors Moroccan architectural styles. The interior features large windows that allow diners to enjoy the beautiful sea view while savoring their meals. The outdoor terrace adds an extra layer of charm, especially during warm evenings."
+    },
+    {
+        "name": "La Maison Blanche",
+        "address": "Rue de la Kasbah, Tangier",
+        "specialty": "Moroccan Cuisine",
+        "rating": 4.8,
+        "site": "https://lamaisonblanche.com/",
+        "tel": "+212 539 33 12 34",
+        "image":"images/la maison blanche.jpg",
+        "description":"La Maison Blanche is a prestigious restaurant located in Tangier, Morocco, known for its refined atmosphere and exceptional culinary offerings. The restaurant specializes in Mediterranean and French-inspired cuisine, providing a sophisticated dining experience. With an elegant, contemporary interior and a relaxed ambiance, La Maison Blanche is a popular spot for both locals and tourists seeking high-quality meals. The restaurant often emphasizes fresh, locally sourced ingredients and boasts a well-curated wine list to complement its dishes. It is a great choice for special occasions or intimate dinners in the heart of Tangier."
+    }
+]

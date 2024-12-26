@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+    <title>FeastScout</title>
+</head>
+<body>
+    <header>
+    <nav class="navbar">
+        <img class="logo" src="images/feastscout.png" alt="logo">
+        <ul class="nav-links">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="admin.html">Admin</a></li>
+        </ul>
+        <div class="search-container">
+            <select id="searchCriteria">
+                <option value="all"> All </option>
+                <option value="name"> Name </option>
+                <option value="specialty"> Speciality </option>
+            </select>
+            <input type="text" id="searchInput" placeholder="   Search Resturants...">
+            <button id="searchBtn"><i class="fa-solid fa-magnifying-glass"></i> Search</button>
+            <button id="clearBtn"><i class="fa-regular fa-circle-xmark"></i> Clear</button>
+        </div>
+    </nav>
+    </header>
+
+    <main>
+    <section id="hero-section">
+
+        <div class="hero-text">
+            <h1>FeastScout</h1>
+            <h3>"A Taste of What’s Cooking Around TANGER Town"</h3>
+            <h5>We provide up-to-date, reliable information on the best dining spots in Tangier, from traditional Moroccan dishes to international flavors, helping you discover unique tastes and experience the city's vibrant food culture.</h5>
+            <a href="#TOPREST"><button id="DiscoverBtn">Discover Resturants</button></a>
+        </div>
+
+        <div class="hero-imgs">
+            <img src="images/food hero.jpg" alt="">
+        </div>
+
+    </section>
+    <h2 class="Resturants-title" id="TOPREST">Resturants</h2>
+    <section class="Resturants-section">
+        
+        <div class="Resturants-container" id="resturants-Grid">
+
+        </div>
+
+    </section>
+    </main>
+
+
+    <footer class="site-footer">
+        <div class="footer-content">
+            <div class="footer-section about">
+                <h3>FeastScout</h3>
+                <p>Discover the best dining experiences in Tangier. Your ultimate guide to local restaurants and culinary delights.</p>
+                <div class="contact">
+                    <span><i class="fa-solid fa-phone"></i> +212 999 99 99 99</span>
+                    <span><i class="fa-solid fa-envelope"></i> info@feastscout.com</span>
+                </div>
+            </div>
+            
+            <div class="footer-section links">
+                <h3>Quick Links</h3>
+                <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="admin.html">Admin Panel</a></li>
+                </ul>
+            </div>
+            
+            <div class="footer-section social">
+                <h3>Follow Us</h3>
+                <div class="social-icons">
+                    <a href="#"><i class="fa-brands fa-facebook"></i></a>
+                    <a href="#"><i class="fa-brands fa-instagram"></i></a>
+                    <a href="#"><i class="fa-brands fa-twitter"></i></a>
+                </div>
+            </div>
+        </div>
+        
+        <div class="footer-bottom">
+            <p>&copy; 2024 FeastScout. All Rights Reserved.</p>
+        </div>
+    </footer>
+    
+
+    <script src="script.js"></script>
+</body>
+</html>
